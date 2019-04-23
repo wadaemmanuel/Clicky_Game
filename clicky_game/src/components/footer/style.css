@@ -1,0 +1,15 @@
+.Footer {
+    padding-top: 20px;
+    background: #ECEFF1;
+    height: 5%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: lightgrey;
+  }

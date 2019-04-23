@@ -1,0 +1,6 @@
+.Background {
+    background-color: coral;
+    height: 2500px;
+    display: flex;
+    flex-flow: row wrap;
+  }
