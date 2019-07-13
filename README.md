@@ -10,4 +10,4 @@ React and Express.js
 
 ## Download Instructions 
 * clone repo
-** install dependencies 
+* install dependencies 
