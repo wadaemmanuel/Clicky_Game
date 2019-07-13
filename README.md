@@ -7,3 +7,6 @@ Click on an image to earn points, but don't click on any more than once.
 
 ## Built with:
 React and Express.js 
+
+## Download Instructions 
+* git clone repo
