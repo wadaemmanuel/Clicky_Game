@@ -11,3 +11,4 @@ React and Express.js
 ## Download Instructions 
 * clone repo
 * install dependencies 
+* type npm start to run the app on local machine 
